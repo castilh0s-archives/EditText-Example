@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
             public void onCheckedChanged(RadioGroup group, int checkedId) {
                 switch (checkedId) {
                     case R.id.radioButtonBMW:
-                        valorMarca = 40000.00;
+                        valorMarca = 400000.00;
                         break;
                     case R.id.radioButtonPorsche:
                         valorMarca = 200000.00;
